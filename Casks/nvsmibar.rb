@@ -1,6 +1,6 @@
 cask "nvsmibar" do
-  version "1.0.0"
-  sha256 "5f5b2f5332c054a90c3e7a9de58b216968c603dcc45f7c2e35dfb0952dec215c"
+  version "1.0.1"
+  sha256 "f6c91772d2060e13364b0fbfb66e5b3618aeccf6c48d4c07b5d16b8c2b578ec0"
 
   url "https://github.com/XingyuHu109/NVSmiBar/releases/download/v#{version}/NVSmiBar.dmg"
   name "NVSmiBar"
